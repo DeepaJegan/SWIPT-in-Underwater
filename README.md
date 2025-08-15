@@ -16,7 +16,7 @@
 
 ## 📄 Description
 
-This repository contains the MATLAB implementation of the improved SWIPT (Simultaneous Wireless Information and Power Transfer) schemes proposed in the paper *Improved SWIPT Schemes for Underwater Acoustic Sensor Networks (UASNs)*.
+This repository contains the MATLAB implementation of the improved SWIPT (Simultaneous Wireless Information and Power Transfer) schemes proposed in the paper.
 
 Traditional PS-SWIPT and TS-SWIPT cooperative NOMA schemes do not fully utilize distance-dependent bandwidth in underwater environments.  
 
