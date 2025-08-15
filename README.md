@@ -36,7 +36,7 @@ This repository contains all scripts required to reproduce the simulation and nu
 | Script         | Related Figure(s) | Description |
 |----------------|-------------------|-------------|
 | `IPSSWIPT.mlx` | Fig. 4, Fig. 5, Fig. 6 | MATLAB Live Script implementing IPS-SWIPT-CNOMA scheme for underwater acoustic sensor networks. Simulates power splitting, time switching, and improved bandwidth utilization for enhanced energy harvesting. Produces all plots and numerical results from the paper. |
-| `ITSSWIPT.mlx` | Fig. 4, Fig. 5, Fig. 6 | MATLAB Live Script implementing ITS-SWIPT-CNOMA scheme for underwater acoustic sensor networks. Simulates power splitting, time switching, and improved bandwidth utilization for enhanced energy harvesting. Produces all plots and numerical results from the paper. |
+| `ITSSWIPT.mlx` | Fig. 7, Fig. 8, Fig. 9 | MATLAB Live Script implementing ITS-SWIPT-CNOMA scheme for underwater acoustic sensor networks. Simulates power splitting, time switching, and improved bandwidth utilization for enhanced energy harvesting. Produces all plots and numerical results from the paper. |
 
 ---
 
